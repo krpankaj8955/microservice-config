@@ -1,1 +1,4 @@
 # user-service dev environment configuration
+app:
+  config:
+    profile: development

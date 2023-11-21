@@ -1,1 +1,4 @@
 # rating-service dev env properties
+app:
+  config:
+    profile: development
