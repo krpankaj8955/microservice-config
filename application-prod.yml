@@ -1,0 +1,5 @@
+app:
+  config:
+    profile: production
+    data: 234
+

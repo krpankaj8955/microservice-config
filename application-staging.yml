@@ -1,0 +1,4 @@
+app:
+  config:
+    profile: staging
+    data: 345

@@ -1,0 +1,7 @@
+app:
+  config:
+    profile: development
+
+
+    data: 123
+
